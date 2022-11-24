@@ -7,3 +7,5 @@ https://www.youtube.com/watch?v=Ej_02ICOIgs
 
 https://github.com/jimdevops19/PythonOOP
 
+https://raw.githubusercontent.com/RodrigoMvs123/Object-Oriented-Programming-with-Python-/main/README.md
+
